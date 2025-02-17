@@ -1,8 +1,8 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "1234564789", // your number with country code
-  OWNER_NAME: 'シ', // your owner name 
+  OWNER_NUMBERS: "+2347049920895", // your number with country code
+  OWNER_NAME: 'b'g Gozzy', // your owner name 
   BOT_NAME: 'Kord AI', // your preferred bot name
   SESSION_ID: '', // replace your_sessionid with yours and make sure its inside the 
   INVINCIBLE_MODE: true, // toogle invincible mode 
@@ -18,7 +18,7 @@ global.settings = {
   MAX_COMMANDS_PER_MINUTE: 100,
   MAX_DOWNLOAD_SIZE: 100,
   AUTO_LIKE_STATUS: true,
-  AUTO_LIKE_EMOJI: '✨',
+  AUTO_LIKE_EMOJI: '👍',
   BANKING_DETAILS: {
     bank: "Kord-Ai Bank", // the name of your preferred bank
     acc_number: "1234567890", // account number for your preferred bank
